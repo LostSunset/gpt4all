@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en">
+<TS version="2.1" language="en_US">
 <context>
     <name>AddCollectionView</name>
     <message>
@@ -79,316 +79,350 @@
 <context>
     <name>AddModelView</name>
     <message>
-        <location filename="../qml/AddModelView.qml" line="51"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="51"/>
+        <location filename="../qml/AddModelView.qml" line="55"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="55"/>
         <source>← Existing Models</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="71"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="71"/>
+        <location filename="../qml/AddModelView.qml" line="75"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="75"/>
         <source>Explore Models</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="88"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="88"/>
+        <location filename="../qml/AddModelView.qml" line="92"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="92"/>
         <source>Discover and download models by keyword search...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="91"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="91"/>
+        <location filename="../qml/AddModelView.qml" line="95"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="95"/>
         <source>Text field for discovering and filtering downloadable models</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="167"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="167"/>
+        <location filename="../qml/AddModelView.qml" line="171"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="171"/>
         <source>Initiate model discovery and filtering</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="168"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="168"/>
+        <location filename="../qml/AddModelView.qml" line="172"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="172"/>
         <source>Triggers discovery and filtering of models</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="186"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="186"/>
+        <location filename="../qml/AddModelView.qml" line="191"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="191"/>
         <source>Default</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="186"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="186"/>
+        <location filename="../qml/AddModelView.qml" line="192"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="192"/>
         <source>Likes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="186"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="186"/>
-        <source>Downloads</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="186"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="186"/>
-        <source>Recent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="206"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="206"/>
-        <source>Asc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="206"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="206"/>
-        <source>Desc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="234"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="234"/>
-        <source>None</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="97"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="97"/>
-        <source>Searching · %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="193"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="193"/>
+        <source>Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="194"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="194"/>
+        <source>Recent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="216"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="216"/>
+        <source>Asc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="217"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="217"/>
+        <source>Desc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="252"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="252"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="101"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="101"/>
+        <source>Searching · %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="202"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="202"/>
         <source>Sort by: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="218"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="218"/>
+        <location filename="../qml/AddModelView.qml" line="230"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="230"/>
         <source>Sort dir: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="254"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="254"/>
+        <location filename="../qml/AddModelView.qml" line="274"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="274"/>
         <source>Limit: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="287"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="287"/>
+        <location filename="../qml/AddModelView.qml" line="307"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="307"/>
         <source>Network error: could not retrieve %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="297"/>
-        <location filename="../qml/AddModelView.qml" line="560"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="297"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="560"/>
+        <location filename="../qml/AddModelView.qml" line="317"/>
+        <location filename="../qml/AddModelView.qml" line="605"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="317"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="605"/>
         <source>Busy indicator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="298"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="298"/>
+        <location filename="../qml/AddModelView.qml" line="318"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="318"/>
         <source>Displayed when the models request is ongoing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="338"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="338"/>
+        <location filename="../qml/AddModelView.qml" line="358"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="358"/>
         <source>Model file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="339"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="339"/>
+        <location filename="../qml/AddModelView.qml" line="359"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="359"/>
         <source>Model file to be downloaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="362"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="362"/>
+        <location filename="../qml/AddModelView.qml" line="382"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="382"/>
         <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="363"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="363"/>
+        <location filename="../qml/AddModelView.qml" line="383"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="383"/>
         <source>File description</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="396"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="396"/>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="396"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="396"/>
-        <source>Resume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="396"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="396"/>
-        <source>Download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="404"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="404"/>
-        <source>Stop/restart/start the download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="416"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="416"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="416"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="416"/>
+        <source>Resume</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="416"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="416"/>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="424"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="424"/>
+        <source>Stop/restart/start the download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="436"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="436"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="423"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="423"/>
+        <location filename="../qml/AddModelView.qml" line="443"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="443"/>
         <source>Remove model from filesystem</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="437"/>
-        <location filename="../qml/AddModelView.qml" line="446"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="437"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="446"/>
+        <location filename="../qml/AddModelView.qml" line="457"/>
+        <location filename="../qml/AddModelView.qml" line="491"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="457"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="491"/>
         <source>Install</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="447"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="447"/>
+        <location filename="../qml/AddModelView.qml" line="492"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="492"/>
         <source>Install online model</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="476"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="476"/>
-        <source>&lt;strong&gt;&lt;font size=&quot;2&quot;&gt;WARNING: Not recommended for your hardware. Model requires more memory (%1 GB) than your system has available (%2).&lt;/strong&gt;&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="628"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="628"/>
-        <source>%1 GB</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="628"/>
-        <location filename="../qml/AddModelView.qml" line="650"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="628"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="650"/>
-        <source>?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="463"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="463"/>
-        <source>Describes an error that occurred when downloading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="457"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="457"/>
-        <source>&lt;strong&gt;&lt;font size=&quot;1&quot;&gt;&lt;a href=&quot;#error&quot;&gt;Error&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="482"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="482"/>
-        <source>Error for incompatible hardware</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="520"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="520"/>
-        <source>Download progressBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="521"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="521"/>
-        <source>Shows the progress made in the download</source>
+        <source>&lt;strong&gt;&lt;font size=&quot;2&quot;&gt;WARNING: Not recommended for your hardware. Model requires more memory (%1 GB) than your system has available (%2).&lt;/strong&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="531"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="531"/>
-        <source>Download speed</source>
+        <location filename="../qml/AddModelView.qml" line="619"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="619"/>
+        <source>ERROR: $API_KEY is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="532"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="532"/>
-        <source>Download speed in bytes/kilobytes/megabytes per second</source>
+        <location filename="../qml/AddModelView.qml" line="640"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="640"/>
+        <source>ERROR: $BASE_URL is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="549"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="549"/>
-        <source>Calculating...</source>
+        <location filename="../qml/AddModelView.qml" line="646"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="646"/>
+        <source>enter $BASE_URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/AddModelView.qml" line="553"/>
-        <location filename="../qml/AddModelView.qml" line="582"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="553"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="582"/>
-        <source>Whether the file hash is being calculated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="561"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="561"/>
-        <source>Displayed when the file hash is being calculated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="579"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="579"/>
-        <source>enter $API_KEY</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="601"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="601"/>
-        <source>File size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="623"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="623"/>
-        <source>RAM required</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/AddModelView.qml" line="645"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="645"/>
-        <source>Parameters</source>
+        <location filename="../qml/AddModelView.qml" line="661"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="661"/>
+        <source>ERROR: $MODEL_NAME is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="667"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="667"/>
-        <source>Quant</source>
+        <source>enter $MODEL_NAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="716"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="716"/>
+        <source>%1 GB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="716"/>
+        <location filename="../qml/AddModelView.qml" line="738"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="716"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="738"/>
+        <source>?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="508"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="508"/>
+        <source>Describes an error that occurred when downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="502"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="502"/>
+        <source>&lt;strong&gt;&lt;font size=&quot;1&quot;&gt;&lt;a href=&quot;#error&quot;&gt;Error&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="527"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="527"/>
+        <source>Error for incompatible hardware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="565"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="565"/>
+        <source>Download progressBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="566"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="566"/>
+        <source>Shows the progress made in the download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="576"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="576"/>
+        <source>Download speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="577"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="577"/>
+        <source>Download speed in bytes/kilobytes/megabytes per second</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="594"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="594"/>
+        <source>Calculating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="598"/>
+        <location filename="../qml/AddModelView.qml" line="628"/>
+        <location filename="../qml/AddModelView.qml" line="649"/>
+        <location filename="../qml/AddModelView.qml" line="670"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="598"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="628"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="649"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="670"/>
+        <source>Whether the file hash is being calculated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="606"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="606"/>
+        <source>Displayed when the file hash is being calculated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="625"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="625"/>
+        <source>enter $API_KEY</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/AddModelView.qml" line="689"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="689"/>
+        <source>File size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="711"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="711"/>
+        <source>RAM required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="733"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="733"/>
+        <source>Parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="755"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="755"/>
+        <source>Quant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/AddModelView.qml" line="777"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/AddModelView.qml" line="777"/>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
@@ -456,224 +490,238 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="110"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="110"/>
+        <location filename="../qml/ApplicationSettings.qml" line="113"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="113"/>
         <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="110"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="110"/>
+        <location filename="../qml/ApplicationSettings.qml" line="112"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="112"/>
         <source>Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="110"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="110"/>
+        <location filename="../qml/ApplicationSettings.qml" line="114"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="114"/>
         <source>LegacyDark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="131"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="131"/>
+        <location filename="../qml/ApplicationSettings.qml" line="136"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="136"/>
         <source>Font Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="132"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="132"/>
+        <location filename="../qml/ApplicationSettings.qml" line="137"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="137"/>
         <source>The size of text in the application.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="144"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="144"/>
+        <location filename="../qml/ApplicationSettings.qml" line="151"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="151"/>
         <source>Small</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="144"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="144"/>
+        <location filename="../qml/ApplicationSettings.qml" line="152"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="152"/>
         <source>Medium</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="144"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="144"/>
+        <location filename="../qml/ApplicationSettings.qml" line="153"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="153"/>
         <source>Large</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="166"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="166"/>
+        <location filename="../qml/ApplicationSettings.qml" line="176"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="176"/>
         <source>Language and Locale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="167"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="167"/>
+        <location filename="../qml/ApplicationSettings.qml" line="177"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="177"/>
         <source>The language and locale you wish to use.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ApplicationSettings.qml" line="195"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="195"/>
-        <source>Device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/ApplicationSettings.qml" line="196"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="196"/>
-        <source>The compute device used for text generation. &quot;Auto&quot; uses Vulkan or Metal.</source>
+        <source>System Locale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="229"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="229"/>
+        <location filename="../qml/ApplicationSettings.qml" line="223"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="223"/>
+        <source>Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ApplicationSettings.qml" line="224"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="224"/>
+        <source>The compute device used for text generation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ApplicationSettings.qml" line="242"/>
+        <location filename="../qml/ApplicationSettings.qml" line="297"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="242"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="297"/>
+        <source>Application default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ApplicationSettings.qml" line="275"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="275"/>
         <source>Default Model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="230"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="230"/>
+        <location filename="../qml/ApplicationSettings.qml" line="276"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="276"/>
         <source>The preferred model for new chats. Also used as the local server fallback.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="262"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="262"/>
+        <location filename="../qml/ApplicationSettings.qml" line="339"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="339"/>
         <source>Suggestion Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="263"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="263"/>
+        <location filename="../qml/ApplicationSettings.qml" line="340"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="340"/>
         <source>Generate suggested follow-up questions at the end of responses.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="274"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="274"/>
+        <location filename="../qml/ApplicationSettings.qml" line="353"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="353"/>
         <source>When chatting with LocalDocs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="274"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="274"/>
+        <location filename="../qml/ApplicationSettings.qml" line="354"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="354"/>
         <source>Whenever possible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="274"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="274"/>
+        <location filename="../qml/ApplicationSettings.qml" line="355"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="355"/>
         <source>Never</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="286"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="286"/>
+        <location filename="../qml/ApplicationSettings.qml" line="368"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="368"/>
         <source>Download Path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="287"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="287"/>
+        <location filename="../qml/ApplicationSettings.qml" line="369"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="369"/>
         <source>Where to store local models and the LocalDocs database.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="316"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="316"/>
+        <location filename="../qml/ApplicationSettings.qml" line="398"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="398"/>
         <source>Browse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="317"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="317"/>
+        <location filename="../qml/ApplicationSettings.qml" line="399"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="399"/>
         <source>Choose where to save model files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="328"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="328"/>
+        <location filename="../qml/ApplicationSettings.qml" line="410"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="410"/>
         <source>Enable Datalake</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="329"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="329"/>
+        <location filename="../qml/ApplicationSettings.qml" line="411"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="411"/>
         <source>Send chats and feedback to the GPT4All Open-Source Datalake.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="362"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="362"/>
+        <location filename="../qml/ApplicationSettings.qml" line="444"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="444"/>
         <source>Advanced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="374"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="374"/>
+        <location filename="../qml/ApplicationSettings.qml" line="456"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="456"/>
         <source>CPU Threads</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="375"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="375"/>
+        <location filename="../qml/ApplicationSettings.qml" line="457"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="457"/>
         <source>The number of CPU threads used for inference and embedding.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="406"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="406"/>
+        <location filename="../qml/ApplicationSettings.qml" line="488"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="488"/>
         <source>Save Chat Context</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="407"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="407"/>
+        <location filename="../qml/ApplicationSettings.qml" line="489"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="489"/>
         <source>Save the chat model&apos;s state to disk for faster loading. WARNING: Uses ~2GB per chat.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="423"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="423"/>
+        <location filename="../qml/ApplicationSettings.qml" line="505"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="505"/>
         <source>Enable Local Server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="424"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="424"/>
+        <location filename="../qml/ApplicationSettings.qml" line="506"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="506"/>
         <source>Expose an OpenAI-Compatible server to localhost. WARNING: Results in increased resource usage.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="440"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="440"/>
+        <location filename="../qml/ApplicationSettings.qml" line="522"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="522"/>
         <source>API Server Port</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="441"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="441"/>
+        <location filename="../qml/ApplicationSettings.qml" line="523"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="523"/>
         <source>The port to use for the local server. Requires restart.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="493"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="493"/>
+        <location filename="../qml/ApplicationSettings.qml" line="575"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="575"/>
         <source>Check For Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="494"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="494"/>
+        <location filename="../qml/ApplicationSettings.qml" line="576"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="576"/>
         <source>Manually check for an update to GPT4All.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ApplicationSettings.qml" line="503"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="503"/>
+        <location filename="../qml/ApplicationSettings.qml" line="585"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ApplicationSettings.qml" line="585"/>
         <source>Updates</source>
         <translation type="unfinished"></translation>
     </message>
@@ -689,6 +737,19 @@
     <message>
         <location filename="../chat.cpp" line="38"/>
         <source>Server Chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ChatAPIWorker</name>
+    <message>
+        <location filename="../chatapi.cpp" line="230"/>
+        <source>ERROR: Network error occurred while connecting to the API server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../chatapi.cpp" line="243"/>
+        <source>ChatAPIWorker::handleFinished got HTTP Error %1 %2</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -900,9 +961,9 @@
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="549"/>
-        <location filename="../qml/ChatView.qml" line="1307"/>
+        <location filename="../qml/ChatView.qml" line="1313"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="549"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1307"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1313"/>
         <source>LocalDocs</source>
         <translation type="unfinished"></translation>
     </message>
@@ -919,191 +980,185 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="732"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="732"/>
+        <location filename="../qml/ChatView.qml" line="738"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="738"/>
         <source>Load the default model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="733"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="733"/>
+        <location filename="../qml/ChatView.qml" line="739"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="739"/>
         <source>Loads the default model which can be changed in settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="744"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="744"/>
+        <location filename="../qml/ChatView.qml" line="750"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="750"/>
         <source>No Model Installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="753"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="753"/>
+        <location filename="../qml/ChatView.qml" line="759"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="759"/>
         <source>GPT4All requires that you install at least one
 model to get started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="765"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="765"/>
+        <location filename="../qml/ChatView.qml" line="771"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="771"/>
         <source>Install a Model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="770"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="770"/>
+        <location filename="../qml/ChatView.qml" line="776"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="776"/>
         <source>Shows the add model view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="795"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="795"/>
+        <location filename="../qml/ChatView.qml" line="801"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="801"/>
         <source>Conversation with the model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="796"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="796"/>
+        <location filename="../qml/ChatView.qml" line="802"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="802"/>
         <source>prompt / response pairs from the conversation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="848"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="848"/>
+        <location filename="../qml/ChatView.qml" line="854"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="854"/>
         <source>GPT4All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="848"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="848"/>
+        <location filename="../qml/ChatView.qml" line="854"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="854"/>
         <source>You</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="870"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="870"/>
-        <source>recalculating context ...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ChatView.qml" line="872"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="872"/>
+        <location filename="../qml/ChatView.qml" line="878"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="878"/>
         <source>response stopped ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="875"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="875"/>
+        <location filename="../qml/ChatView.qml" line="881"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="881"/>
         <source>processing ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="876"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="876"/>
+        <location filename="../qml/ChatView.qml" line="882"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="882"/>
         <source>generating response ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="877"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="877"/>
+        <location filename="../qml/ChatView.qml" line="883"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="883"/>
         <source>generating questions ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="943"/>
-        <location filename="../qml/ChatView.qml" line="1899"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="943"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1899"/>
+        <location filename="../qml/ChatView.qml" line="949"/>
+        <location filename="../qml/ChatView.qml" line="1905"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="949"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1905"/>
         <source>Copy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="949"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="949"/>
+        <location filename="../qml/ChatView.qml" line="955"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="955"/>
         <source>Copy Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="959"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="959"/>
+        <location filename="../qml/ChatView.qml" line="965"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="965"/>
         <source>Disable markdown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="959"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="959"/>
+        <location filename="../qml/ChatView.qml" line="965"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="965"/>
         <source>Enable markdown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1049"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1049"/>
+        <location filename="../qml/ChatView.qml" line="1055"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1055"/>
         <source>Thumbs up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1050"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1050"/>
+        <location filename="../qml/ChatView.qml" line="1056"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1056"/>
         <source>Gives a thumbs up to the response</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1083"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1083"/>
+        <location filename="../qml/ChatView.qml" line="1089"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1089"/>
         <source>Thumbs down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1084"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1084"/>
+        <location filename="../qml/ChatView.qml" line="1090"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1090"/>
         <source>Opens thumbs down dialog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1139"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1139"/>
+        <location filename="../qml/ChatView.qml" line="1145"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1145"/>
         <source>%1 Sources</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1383"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1383"/>
+        <location filename="../qml/ChatView.qml" line="1389"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1389"/>
         <source>Suggested follow-ups</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1659"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1659"/>
+        <location filename="../qml/ChatView.qml" line="1665"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1665"/>
         <source>Erase and reset chat session</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1680"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1680"/>
+        <location filename="../qml/ChatView.qml" line="1686"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1686"/>
         <source>Copy chat session to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1706"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1706"/>
+        <location filename="../qml/ChatView.qml" line="1712"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1712"/>
         <source>Redo last chat response</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1955"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1955"/>
+        <location filename="../qml/ChatView.qml" line="1961"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1961"/>
         <source>Stop generating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1956"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1956"/>
+        <location filename="../qml/ChatView.qml" line="1962"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1962"/>
         <source>Stop the current response generation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1771"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1771"/>
+        <location filename="../qml/ChatView.qml" line="1777"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1777"/>
         <source>Reloads the model</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1115,9 +1170,9 @@ model to get started</source>
     </message>
     <message>
         <location filename="../qml/ChatView.qml" line="377"/>
-        <location filename="../qml/ChatView.qml" line="1769"/>
+        <location filename="../qml/ChatView.qml" line="1775"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="377"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1769"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1775"/>
         <source>Reload · %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1128,68 +1183,74 @@ model to get started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="708"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="708"/>
+        <location filename="../qml/ChatView.qml" line="714"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="714"/>
         <source>Load · %1 (default) →</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="873"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="873"/>
+        <location filename="../qml/ChatView.qml" line="876"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="876"/>
+        <source>restoring from text ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ChatView.qml" line="879"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="879"/>
         <source>retrieving localdocs: %1 ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="874"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="874"/>
+        <location filename="../qml/ChatView.qml" line="880"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="880"/>
         <source>searching localdocs: %1 ...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1845"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1845"/>
+        <location filename="../qml/ChatView.qml" line="1851"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1851"/>
         <source>Send a message...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1845"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1845"/>
+        <location filename="../qml/ChatView.qml" line="1851"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1851"/>
         <source>Load a model to continue...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1848"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1848"/>
+        <location filename="../qml/ChatView.qml" line="1854"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1854"/>
         <source>Send messages/prompts to the model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1893"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1893"/>
+        <location filename="../qml/ChatView.qml" line="1899"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1899"/>
         <source>Cut</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1905"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1905"/>
+        <location filename="../qml/ChatView.qml" line="1911"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1911"/>
         <source>Paste</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1909"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1909"/>
+        <location filename="../qml/ChatView.qml" line="1915"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1915"/>
         <source>Select All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1979"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1979"/>
+        <location filename="../qml/ChatView.qml" line="1985"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1985"/>
         <source>Send message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ChatView.qml" line="1980"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1980"/>
+        <location filename="../qml/ChatView.qml" line="1986"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ChatView.qml" line="1986"/>
         <source>Sends the message/prompt contained in textfield to the model</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1197,45 +1258,83 @@ model to get started</source>
 <context>
     <name>CollectionsDrawer</name>
     <message>
-        <location filename="../qml/CollectionsDrawer.qml" line="72"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="72"/>
+        <location filename="../qml/CollectionsDrawer.qml" line="70"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="70"/>
         <source>Warning: searching collections while indexing can return incomplete results</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/CollectionsDrawer.qml" line="89"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="89"/>
+        <location filename="../qml/CollectionsDrawer.qml" line="87"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="87"/>
         <source>%n file(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n file</numerusform>
+            <numerusform>%n files</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/CollectionsDrawer.qml" line="89"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="89"/>
+        <location filename="../qml/CollectionsDrawer.qml" line="87"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="87"/>
         <source>%n word(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n word</numerusform>
+            <numerusform>%n words</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/CollectionsDrawer.qml" line="105"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="105"/>
+        <location filename="../qml/CollectionsDrawer.qml" line="103"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="103"/>
         <source>Updating</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/CollectionsDrawer.qml" line="130"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="130"/>
+        <location filename="../qml/CollectionsDrawer.qml" line="128"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="128"/>
         <source>＋ Add Docs</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/CollectionsDrawer.qml" line="139"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="139"/>
+        <location filename="../qml/CollectionsDrawer.qml" line="137"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/CollectionsDrawer.qml" line="137"/>
         <source>Select a collection to make it available to the chat model.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Download</name>
+    <message>
+        <location filename="../download.cpp" line="278"/>
+        <source>Model &quot;%1&quot; is installed successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../download.cpp" line="288"/>
+        <source>ERROR: $MODEL_NAME is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../download.cpp" line="294"/>
+        <source>ERROR: $API_KEY is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../download.cpp" line="300"/>
+        <source>ERROR: $BASE_URL is invalid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../download.cpp" line="306"/>
+        <source>ERROR: Model &quot;%1 (%2)&quot; is conflict.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../download.cpp" line="325"/>
+        <source>Model &quot;%1 (%2)&quot; is installed successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../download.cpp" line="349"/>
+        <source>Model &quot;%1&quot; is removed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1421,66 +1520,72 @@ model to get started</source>
     <message>
         <location filename="../qml/LocalDocsSettings.qml" line="166"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="166"/>
-        <source>The compute device used for embeddings. &quot;Auto&quot; uses the CPU. Requires restart.</source>
+        <source>The compute device used for embeddings. Requires restart.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="202"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="202"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="176"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="176"/>
+        <source>Application default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/LocalDocsSettings.qml" line="210"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="210"/>
         <source>Display</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="215"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="215"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="223"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="223"/>
         <source>Show Sources</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="216"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="216"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="224"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="224"/>
         <source>Display the sources used for each response.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="233"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="233"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="241"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="241"/>
         <source>Advanced</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="249"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="249"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="257"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="257"/>
         <source>Warning: Advanced usage only.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="250"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="250"/>
-        <source>Values too large may cause localdocs failure, extremely slow responses or failure to respond at all. Roughly speaking, the {N chars x N snippets} are added to the model&apos;s context window. More info &lt;a href=&quot;https://docs.gpt4all.io/gpt4all_desktop/localdocs.html&quot;&gt;here&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/LocalDocsSettings.qml" line="258"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="258"/>
+        <source>Values too large may cause localdocs failure, extremely slow responses or failure to respond at all. Roughly speaking, the {N chars x N snippets} are added to the model&apos;s context window. More info &lt;a href=&quot;https://docs.gpt4all.io/gpt4all_desktop/localdocs.html&quot;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/LocalDocsSettings.qml" line="266"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="266"/>
         <source>Document snippet size (characters)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="259"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="259"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="267"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="267"/>
         <source>Number of characters per document snippet. Larger numbers increase likelihood of factual responses, but also result in slower generation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="284"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="284"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="292"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="292"/>
         <source>Max document snippets per prompt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsSettings.qml" line="285"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="285"/>
+        <location filename="../qml/LocalDocsSettings.qml" line="293"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsSettings.qml" line="293"/>
         <source>Max best N matches of retrieved document snippets to add to the context for prompt. Larger numbers increase likelihood of factual responses, but also result in slower generation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1506,164 +1611,164 @@ model to get started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="86"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="86"/>
-        <source>ERROR: The LocalDocs database is not valid.</source>
+        <location filename="../qml/LocalDocsView.qml" line="85"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="85"/>
+        <source>&lt;h3&gt;ERROR: The LocalDocs database cannot be accessed or is not valid.&lt;/h3&gt;&lt;br&gt;&lt;i&gt;Note: You will need to restart after trying any of the following suggested fixes.&lt;/i&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Make sure that the folder set as &lt;b&gt;Download Path&lt;/b&gt; exists on the file system.&lt;/li&gt;&lt;li&gt;Check ownership as well as read and write permissions of the &lt;b&gt;Download Path&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;If there is a &lt;b&gt;localdocs_v2.db&lt;/b&gt; file, check its ownership and read/write permissions, too.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;If the problem persists and there are any &apos;localdocs_v*.db&apos; files present, as a last resort you can&lt;br&gt;try backing them up and removing them. You will have to recreate your collections, however.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="104"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="104"/>
+        <location filename="../qml/LocalDocsView.qml" line="109"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="109"/>
         <source>No Collections Installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="113"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="113"/>
+        <location filename="../qml/LocalDocsView.qml" line="118"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="118"/>
         <source>Install a collection of local documents to get started using this feature</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/LocalDocsView.qml" line="124"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="124"/>
-        <source>＋ Add Doc Collection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/LocalDocsView.qml" line="129"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="129"/>
+        <source>＋ Add Doc Collection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/LocalDocsView.qml" line="134"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="134"/>
         <source>Shows the add model view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="226"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="226"/>
+        <location filename="../qml/LocalDocsView.qml" line="231"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="231"/>
         <source>Indexing progressBar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="227"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="227"/>
+        <location filename="../qml/LocalDocsView.qml" line="232"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="232"/>
         <source>Shows the progress made in the indexing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="252"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="252"/>
+        <location filename="../qml/LocalDocsView.qml" line="257"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="257"/>
         <source>ERROR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="256"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="256"/>
+        <location filename="../qml/LocalDocsView.qml" line="261"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="261"/>
         <source>INDEXING</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="260"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="260"/>
+        <location filename="../qml/LocalDocsView.qml" line="265"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="265"/>
         <source>EMBEDDING</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/LocalDocsView.qml" line="263"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="263"/>
-        <source>REQUIRES UPDATE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/LocalDocsView.qml" line="266"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="266"/>
-        <source>READY</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/LocalDocsView.qml" line="268"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="268"/>
+        <source>REQUIRES UPDATE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/LocalDocsView.qml" line="271"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="271"/>
+        <source>READY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/LocalDocsView.qml" line="273"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="273"/>
         <source>INSTALLING</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="295"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="295"/>
+        <location filename="../qml/LocalDocsView.qml" line="300"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="300"/>
         <source>Indexing in progress</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="298"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="298"/>
+        <location filename="../qml/LocalDocsView.qml" line="303"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="303"/>
         <source>Embedding in progress</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/LocalDocsView.qml" line="301"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="301"/>
-        <source>This collection requires an update after version change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/LocalDocsView.qml" line="304"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="304"/>
-        <source>Automatically reindexes upon changes to the folder</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/LocalDocsView.qml" line="306"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="306"/>
+        <source>This collection requires an update after version change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/LocalDocsView.qml" line="309"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="309"/>
+        <source>Automatically reindexes upon changes to the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/LocalDocsView.qml" line="311"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="311"/>
         <source>Installation in progress</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="320"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="320"/>
+        <location filename="../qml/LocalDocsView.qml" line="325"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="325"/>
         <source>%</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/LocalDocsView.qml" line="332"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="332"/>
+        <location filename="../qml/LocalDocsView.qml" line="337"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="337"/>
         <source>%n file(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n file</numerusform>
+            <numerusform>%n files</numerusform>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/LocalDocsView.qml" line="332"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="332"/>
+        <location filename="../qml/LocalDocsView.qml" line="337"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="337"/>
         <source>%n word(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n word</numerusform>
+            <numerusform>%n words</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="403"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="403"/>
+        <location filename="../qml/LocalDocsView.qml" line="408"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="408"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="415"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="415"/>
+        <location filename="../qml/LocalDocsView.qml" line="420"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="420"/>
         <source>Rebuild</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="418"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="418"/>
+        <location filename="../qml/LocalDocsView.qml" line="423"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="423"/>
         <source>Reindex this folder from scratch. This is slow and usually not needed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="425"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="425"/>
+        <location filename="../qml/LocalDocsView.qml" line="430"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="430"/>
         <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/LocalDocsView.qml" line="428"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="428"/>
+        <location filename="../qml/LocalDocsView.qml" line="433"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/LocalDocsView.qml" line="433"/>
         <source>Update the collection to the new version. This is a slow operation.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1671,47 +1776,67 @@ model to get started</source>
 <context>
     <name>ModelList</name>
     <message>
-        <location filename="../modellist.cpp" line="1548"/>
+        <location filename="../modellist.cpp" line="1559"/>
         <source>&lt;ul&gt;&lt;li&gt;Requires personal OpenAI API key.&lt;/li&gt;&lt;li&gt;WARNING: Will send your chats to OpenAI!&lt;/li&gt;&lt;li&gt;Your API key will be stored on disk&lt;/li&gt;&lt;li&gt;Will only be used to communicate with OpenAI&lt;/li&gt;&lt;li&gt;You can apply for an API key &lt;a href=&quot;https://platform.openai.com/account/api-keys&quot;&gt;here.&lt;/a&gt;&lt;/li&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="1567"/>
+        <location filename="../modellist.cpp" line="1578"/>
         <source>&lt;strong&gt;OpenAI&apos;s ChatGPT model GPT-3.5 Turbo&lt;/strong&gt;&lt;br&gt; %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="1595"/>
+        <location filename="../modellist.cpp" line="1606"/>
         <source>&lt;strong&gt;OpenAI&apos;s ChatGPT model GPT-4&lt;/strong&gt;&lt;br&gt; %1 %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="1626"/>
+        <location filename="../modellist.cpp" line="1637"/>
         <source>&lt;strong&gt;Mistral Tiny model&lt;/strong&gt;&lt;br&gt; %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="1651"/>
+        <location filename="../modellist.cpp" line="1662"/>
         <source>&lt;strong&gt;Mistral Small model&lt;/strong&gt;&lt;br&gt; %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="1677"/>
+        <location filename="../modellist.cpp" line="1688"/>
         <source>&lt;strong&gt;Mistral Medium model&lt;/strong&gt;&lt;br&gt; %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="1580"/>
+        <location filename="../modellist.cpp" line="1591"/>
         <source>&lt;br&gt;&lt;br&gt;&lt;i&gt;* Even if you pay OpenAI for ChatGPT-4 this does not guarantee API key access. Contact OpenAI for more info.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="1607"/>
+        <location filename="../modellist.cpp" line="1299"/>
+        <source>%1 (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../modellist.cpp" line="1300"/>
+        <source>&lt;strong&gt;OpenAI-Compatible API Model&lt;/strong&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;API Key: %1&lt;/li&gt;&lt;li&gt;Base URL: %2&lt;/li&gt;&lt;li&gt;Model Name: %3&lt;/li&gt;&lt;/ul&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../modellist.cpp" line="1618"/>
         <source>&lt;ul&gt;&lt;li&gt;Requires personal Mistral API key.&lt;/li&gt;&lt;li&gt;WARNING: Will send your chats to Mistral!&lt;/li&gt;&lt;li&gt;Your API key will be stored on disk&lt;/li&gt;&lt;li&gt;Will only be used to communicate with Mistral&lt;/li&gt;&lt;li&gt;You can apply for an API key &lt;a href=&quot;https://console.mistral.ai/user/api-keys&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../modellist.cpp" line="2092"/>
+        <location filename="../modellist.cpp" line="1700"/>
+        <source>&lt;ul&gt;&lt;li&gt;Requires personal API key and the API base URL.&lt;/li&gt;&lt;li&gt;WARNING: Will send your chats to the OpenAI-compatible API Server you specified!&lt;/li&gt;&lt;li&gt;Your API key will be stored on disk&lt;/li&gt;&lt;li&gt;Will only be used to communicate with the OpenAI-compatible API Server&lt;/li&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../modellist.cpp" line="1717"/>
+        <source>&lt;strong&gt;Connect to OpenAI-compatible API server&lt;/strong&gt;&lt;br&gt; %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../modellist.cpp" line="2131"/>
         <source>&lt;strong&gt;Created by %1.&lt;/strong&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Published on %2.&lt;li&gt;This model has %3 likes.&lt;li&gt;This model has %4 downloads.&lt;li&gt;More info can be found &lt;a href=&quot;https://huggingface.co/%5&quot;&gt;here.&lt;/a&gt;&lt;/ul&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1797,181 +1922,181 @@ model to get started</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="283"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="283"/>
+        <location filename="../qml/ModelSettings.qml" line="298"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="298"/>
         <source>Suggested FollowUp Prompt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="284"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="284"/>
+        <location filename="../qml/ModelSettings.qml" line="299"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="299"/>
         <source>Prompt used to generate suggested follow-up questions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="322"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="322"/>
+        <location filename="../qml/ModelSettings.qml" line="352"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="352"/>
         <source>Context Length</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="323"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="323"/>
+        <location filename="../qml/ModelSettings.qml" line="353"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="353"/>
         <source>Number of input and output tokens the model sees.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="344"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="344"/>
+        <location filename="../qml/ModelSettings.qml" line="374"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="374"/>
         <source>Maximum combined prompt/response tokens before information is lost.
 Using more context than the model was trained on will yield poor results.
 NOTE: Does not take effect until you reload the model.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="382"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="382"/>
+        <location filename="../qml/ModelSettings.qml" line="412"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="412"/>
         <source>Temperature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="383"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="383"/>
+        <location filename="../qml/ModelSettings.qml" line="413"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="413"/>
         <source>Randomness of model output. Higher -&gt; more variation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="394"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="394"/>
+        <location filename="../qml/ModelSettings.qml" line="424"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="424"/>
         <source>Temperature increases the chances of choosing less likely tokens.
 NOTE: Higher temperature gives more creative but less predictable outputs.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="428"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="428"/>
+        <location filename="../qml/ModelSettings.qml" line="458"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="458"/>
         <source>Top-P</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="429"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="429"/>
+        <location filename="../qml/ModelSettings.qml" line="459"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="459"/>
         <source>Nucleus Sampling factor. Lower -&gt; more predicatable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="439"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="439"/>
+        <location filename="../qml/ModelSettings.qml" line="469"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="469"/>
         <source>Only the most likely tokens up to a total probability of top_p can be chosen.
 NOTE: Prevents choosing highly unlikely tokens.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="473"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="473"/>
+        <location filename="../qml/ModelSettings.qml" line="503"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="503"/>
         <source>Min-P</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="474"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="474"/>
+        <location filename="../qml/ModelSettings.qml" line="504"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="504"/>
         <source>Minimum token probability. Higher -&gt; more predictable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="484"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="484"/>
+        <location filename="../qml/ModelSettings.qml" line="514"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="514"/>
         <source>Sets the minimum relative probability for a token to be considered.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="520"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="520"/>
+        <location filename="../qml/ModelSettings.qml" line="550"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="550"/>
         <source>Top-K</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="521"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="521"/>
+        <location filename="../qml/ModelSettings.qml" line="551"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="551"/>
         <source>Size of selection pool for tokens.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="532"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="532"/>
+        <location filename="../qml/ModelSettings.qml" line="562"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="562"/>
         <source>Only the top K most likely tokens will be chosen from.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="567"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="567"/>
+        <location filename="../qml/ModelSettings.qml" line="597"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="597"/>
         <source>Max Length</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="568"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="568"/>
+        <location filename="../qml/ModelSettings.qml" line="598"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="598"/>
         <source>Maximum response length, in tokens.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="613"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="613"/>
+        <location filename="../qml/ModelSettings.qml" line="643"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="643"/>
         <source>Prompt Batch Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="614"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="614"/>
+        <location filename="../qml/ModelSettings.qml" line="644"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="644"/>
         <source>The batch size used for prompt processing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="625"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="625"/>
+        <location filename="../qml/ModelSettings.qml" line="655"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="655"/>
         <source>Amount of prompt tokens to process at once.
 NOTE: Higher values can speed up reading prompts but will use more RAM.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="660"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="660"/>
+        <location filename="../qml/ModelSettings.qml" line="690"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="690"/>
         <source>Repeat Penalty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="661"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="661"/>
+        <location filename="../qml/ModelSettings.qml" line="691"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="691"/>
         <source>Repetition penalty factor. Set to 1 to disable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="705"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="705"/>
+        <location filename="../qml/ModelSettings.qml" line="735"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="735"/>
         <source>Repeat Penalty Tokens</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="706"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="706"/>
+        <location filename="../qml/ModelSettings.qml" line="736"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="736"/>
         <source>Number of previous tokens used for penalty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="751"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="751"/>
+        <location filename="../qml/ModelSettings.qml" line="781"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="781"/>
         <source>GPU Layers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="752"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="752"/>
+        <location filename="../qml/ModelSettings.qml" line="782"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="782"/>
         <source>Number of model layers to load into VRAM.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelSettings.qml" line="763"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="763"/>
+        <location filename="../qml/ModelSettings.qml" line="793"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelSettings.qml" line="793"/>
         <source>How many model layers to load into VRAM. Decrease this if GPT4All runs out of VRAM while loading this model.
 Lower values increase CPU load and RAM usage, and make inference slower.
 NOTE: Does not take effect until you reload the model.</source>
@@ -1981,230 +2106,264 @@ NOTE: Does not take effect until you reload the model.</source>
 <context>
     <name>ModelsView</name>
     <message>
-        <location filename="../qml/ModelsView.qml" line="36"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="36"/>
+        <location filename="../qml/ModelsView.qml" line="40"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="40"/>
         <source>No Models Installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="45"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="45"/>
+        <location filename="../qml/ModelsView.qml" line="49"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="49"/>
         <source>Install a model to get started using GPT4All</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="56"/>
-        <location filename="../qml/ModelsView.qml" line="98"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="56"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="98"/>
+        <location filename="../qml/ModelsView.qml" line="60"/>
+        <location filename="../qml/ModelsView.qml" line="102"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="60"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="102"/>
         <source>＋ Add Model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="61"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="61"/>
+        <location filename="../qml/ModelsView.qml" line="65"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="65"/>
         <source>Shows the add model view</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="79"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="79"/>
+        <location filename="../qml/ModelsView.qml" line="83"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="83"/>
         <source>Installed Models</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="85"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="85"/>
+        <location filename="../qml/ModelsView.qml" line="89"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="89"/>
         <source>Locally installed chat models</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="143"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="143"/>
+        <location filename="../qml/ModelsView.qml" line="147"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="147"/>
         <source>Model file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="144"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="144"/>
+        <location filename="../qml/ModelsView.qml" line="148"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="148"/>
         <source>Model file to be downloaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="166"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="166"/>
+        <location filename="../qml/ModelsView.qml" line="170"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="170"/>
         <source>Description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="167"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="167"/>
+        <location filename="../qml/ModelsView.qml" line="171"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="171"/>
         <source>File description</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="192"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="192"/>
+        <location filename="../qml/ModelsView.qml" line="196"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="196"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="192"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="192"/>
+        <location filename="../qml/ModelsView.qml" line="196"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="196"/>
         <source>Resume</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="200"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="200"/>
+        <location filename="../qml/ModelsView.qml" line="204"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="204"/>
         <source>Stop/restart/start the download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="212"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="212"/>
+        <location filename="../qml/ModelsView.qml" line="216"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="216"/>
         <source>Remove</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="219"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="219"/>
+        <location filename="../qml/ModelsView.qml" line="223"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="223"/>
         <source>Remove model from filesystem</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="233"/>
-        <location filename="../qml/ModelsView.qml" line="242"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="233"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="242"/>
+        <location filename="../qml/ModelsView.qml" line="237"/>
+        <location filename="../qml/ModelsView.qml" line="271"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="237"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="271"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="243"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="243"/>
-        <source>Install online model</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="253"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="253"/>
-        <source>&lt;strong&gt;&lt;font size=&quot;1&quot;&gt;&lt;a href=&quot;#error&quot;&gt;Error&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/ModelsView.qml" line="272"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="272"/>
+        <source>Install online model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="282"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="282"/>
+        <source>&lt;strong&gt;&lt;font size=&quot;1&quot;&gt;&lt;a href=&quot;#error&quot;&gt;Error&lt;/a&gt;&lt;/strong&gt;&lt;/font&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="301"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="301"/>
         <source>&lt;strong&gt;&lt;font size=&quot;2&quot;&gt;WARNING: Not recommended for your hardware. Model requires more memory (%1 GB) than your system has available (%2).&lt;/strong&gt;&lt;/font&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="424"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="424"/>
-        <source>%1 GB</source>
+        <location filename="../qml/ModelsView.qml" line="399"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="399"/>
+        <source>ERROR: $API_KEY is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="424"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="424"/>
-        <source>?</source>
+        <location filename="../qml/ModelsView.qml" line="420"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="420"/>
+        <source>ERROR: $BASE_URL is empty.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="259"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="259"/>
-        <source>Describes an error that occurred when downloading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="278"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="278"/>
-        <source>Error for incompatible hardware</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="316"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="316"/>
-        <source>Download progressBar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="317"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="317"/>
-        <source>Shows the progress made in the download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="327"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="327"/>
-        <source>Download speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="328"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="328"/>
-        <source>Download speed in bytes/kilobytes/megabytes per second</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="345"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="345"/>
-        <source>Calculating...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="349"/>
-        <location filename="../qml/ModelsView.qml" line="378"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="349"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="378"/>
-        <source>Whether the file hash is being calculated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="356"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="356"/>
-        <source>Busy indicator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="357"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="357"/>
-        <source>Displayed when the file hash is being calculated</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="375"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="375"/>
-        <source>enter $API_KEY</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="397"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="397"/>
-        <source>File size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/ModelsView.qml" line="419"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="419"/>
-        <source>RAM required</source>
+        <location filename="../qml/ModelsView.qml" line="426"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="426"/>
+        <source>enter $BASE_URL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/ModelsView.qml" line="441"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="441"/>
+        <source>ERROR: $MODEL_NAME is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="447"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="447"/>
+        <source>enter $MODEL_NAME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="496"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="496"/>
+        <source>%1 GB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="496"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="496"/>
+        <source>?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="288"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="288"/>
+        <source>Describes an error that occurred when downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="307"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="307"/>
+        <source>Error for incompatible hardware</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="345"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="345"/>
+        <source>Download progressBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="346"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="346"/>
+        <source>Shows the progress made in the download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="356"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="356"/>
+        <source>Download speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="357"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="357"/>
+        <source>Download speed in bytes/kilobytes/megabytes per second</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="374"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="374"/>
+        <source>Calculating...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="378"/>
+        <location filename="../qml/ModelsView.qml" line="408"/>
+        <location filename="../qml/ModelsView.qml" line="429"/>
+        <location filename="../qml/ModelsView.qml" line="450"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="378"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="408"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="429"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="450"/>
+        <source>Whether the file hash is being calculated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="385"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="385"/>
+        <source>Busy indicator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="386"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="386"/>
+        <source>Displayed when the file hash is being calculated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="405"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="405"/>
+        <source>enter $API_KEY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="469"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="469"/>
+        <source>File size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="491"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="491"/>
+        <source>RAM required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/ModelsView.qml" line="513"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="513"/>
         <source>Parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="463"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="463"/>
+        <location filename="../qml/ModelsView.qml" line="535"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="535"/>
         <source>Quant</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/ModelsView.qml" line="485"/>
-        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="485"/>
+        <location filename="../qml/ModelsView.qml" line="557"/>
+        <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/ModelsView.qml" line="557"/>
         <source>Type</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2360,14 +2519,6 @@ NOTE: By turning on this feature, you will be sending your data to the GPT4All O
         <location filename="../qml/PopupDialog.qml" line="49"/>
         <location filename="../../build_gpt4all-chat_Desktop_Qt_6_7_2/gpt4all/qml/PopupDialog.qml" line="49"/>
         <source>Displayed when the popup is showing busy</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QObject</name>
-    <message>
-        <location filename="../mysettings.cpp" line="119"/>
-        <source>Default</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

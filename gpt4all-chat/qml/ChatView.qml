@@ -696,6 +696,7 @@ Rectangle {
                             rightPadding: 60
                             leftPadding: 60
                             property string defaultModel: ""
+                            property string defaultModelName: ""
                             function updateDefaultModel() {
                                 var i = comboBox.find(MySettings.userDefaultModel)
                                 if (i !== -1) {
@@ -703,9 +704,14 @@ Rectangle {
                                 } else {
                                     defaultModel = comboBox.valueAt(0);
                                 }
+                                if (defaultModel !== "") {
+                                    defaultModelName = ModelList.modelInfo(defaultModel).name;
+                                } else {
+                                    defaultModelName = "";
+                                }
                             }
 
-                            text: qsTr("Load \u00B7 %1 (default) \u2192").arg(defaultModel);
+                            text: qsTr("Load \u00B7 %1 (default) \u2192").arg(defaultModelName);
                             onClicked: {
                                 var i = comboBox.find(MySettings.userDefaultModel)
                                 if (i !== -1) {
@@ -828,7 +834,7 @@ Rectangle {
                                             to: 360
                                             duration: 1000
                                             loops: Animation.Infinite
-                                            running: currentResponse && (currentChat.responseInProgress || currentChat.isRecalc)
+                                            running: currentResponse && (currentChat.responseInProgress || currentChat.restoringFromText)
                                         }
                                     }
                                 }
@@ -861,13 +867,13 @@ Rectangle {
                                             color: theme.mutedTextColor
                                         }
                                         RowLayout {
-                                            visible: currentResponse && ((value === "" && currentChat.responseInProgress) || currentChat.isRecalc)
+                                            visible: currentResponse && ((value === "" && currentChat.responseInProgress) || currentChat.restoringFromText)
                                             Text {
                                                 color: theme.mutedTextColor
                                                 font.pixelSize: theme.fontSizeLarger
                                                 text: {
-                                                    if (currentChat.isRecalc)
-                                                        return qsTr("recalculating context ...");
+                                                    if (currentChat.restoringFromText)
+                                                        return qsTr("restoring from text ...");
                                                     switch (currentChat.responseState) {
                                                     case Chat.ResponseStopped: return qsTr("response stopped ...");
                                                     case Chat.LocalDocsRetrieval: return qsTr("retrieving localdocs: %1 ...").arg(currentChat.collectionList.join(", "));
@@ -1286,11 +1292,11 @@ Rectangle {
                                                                 sourceSize.height: 24
                                                                 mipmap: true
                                                                 source: {
-                                                                    if (modelData.file.endsWith(".txt"))
+                                                                    if (modelData.file.toLowerCase().endsWith(".txt"))
                                                                         return "qrc:/gpt4all/icons/file-txt.svg"
-                                                                    else if (modelData.file.endsWith(".pdf"))
+                                                                    else if (modelData.file.toLowerCase().endsWith(".pdf"))
                                                                         return "qrc:/gpt4all/icons/file-pdf.svg"
-                                                                    else if (modelData.file.endsWith(".md"))
+                                                                    else if (modelData.file.toLowerCase().endsWith(".md"))
                                                                         return "qrc:/gpt4all/icons/file-md.svg"
                                                                     else
                                                                         return "qrc:/gpt4all/icons/file.svg"
@@ -1855,7 +1861,7 @@ Rectangle {
                                               }
                                           }
                     function sendMessage() {
-                        if (textInput.text === "" || currentChat.responseInProgress || currentChat.isRecalc)
+                        if (textInput.text === "" || currentChat.responseInProgress || currentChat.restoringFromText)
                             return
 
                         currentChat.stopGenerating()
